@@ -1,5 +1,5 @@
-#ADS phase wise project submission
-#Covid-19vaccines Analysis using Data Science
+# ADS phase wise project submission
+# Covid-19vaccines Analysis using Data Science
 IBM project(1).pdf
 Data Source: (https://www.kaggle.com/datasets/vedavyasv/usa-housing).
 ADS-Phase2.pdf
@@ -8,10 +8,10 @@ ADS- Phase3.pdf
 # how to run the code and any dependency: Covid-19 vaccines Analysis
 ADS_Phase4.pdf
 ADS-Phase5.pdf
- #How to Run:
+# How to Run:
 README.md
-#pip install jupyter lab
-#pip install jupyter notebook (or)
+# pip install jupyter lab
+# pip install jupyter notebook (or)
 Insat11 jupyter notebook in your commend prompt
 1.Download Anaconda community software for desktop
 2. Install the anaconda community
