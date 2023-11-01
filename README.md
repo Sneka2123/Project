@@ -38,7 +38,7 @@ To run this project, you'll need the following dependencies:
 ## Installation
 1. Clone the repository:
    bash
- “  git clone ”
+ “  git clone https://github.com/Sneka2123/Project.git ”
   
 2. Move to the project directory:
    Bash”
@@ -46,8 +46,8 @@ To run this project, you'll need the following dependencies:
   
 3. Install the required dependencies:
    “bash
-   pip install -r requirements.txt
-   “
+   pip install -r requirements.txt "
+   
 
 ## Usage
 
@@ -110,7 +110,7 @@ To run this project, the following dependencies are required:
 
 1. Clone the repository:
    bash
-   git clone https://github.com/yourusername/covid19-vaccines-analysis.git
+   "git clone https://github.com/Sneka2123/Project.git"
    
 
 2. Move to the project directory:
