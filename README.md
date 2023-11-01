@@ -1,11 +1,11 @@
 # ADS phase wise project submission
-# Covid-19 vaccines Analysis using Data Science
+# Covid-19 Vaccines Analysis using Data Science
 IBM project(1).pdf
 Data Source:(https://www.kaggle.com/datasets/gpreda/covid-world-vaccination-progress).
 ADS-Phase2.pdf
 Reference:Kaggle.com 
 ADS-Phase3.pdf
-# how to run the code and any dependency: Covid-19 vaccines Analysis
+# How to run the code and any dependency: Covid-19 vaccines Analysis
 ADS_Phase-4.pdf
 ADS-Phase5.pdf
 # How to Run:
